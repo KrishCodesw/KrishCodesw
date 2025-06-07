@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/krishjainw" target="_blank"><img src="https://img.shields.io/twitter/follow/krishjainw?logo=twitter&style=for-the-badge" alt="krishjainw" /></a> </p>
 
-- 🔭 I’m currently working on [MetaStash](https://metastash1final.vercel.app/)
+- I’m currently working on [MetaStash](https://metastash1final.vercel.app/)
 
-- 🌱 I’m currently learning **NextJs**
+- I’m currently learning **NextJs**
 
-- 👯 I’m looking to collaborate on **any project**
+- I’m looking to collaborate on **any project**
 
-- 💬 Ask me about **react**
+- Ask me about **react**
 
-- 📫 How to reach me **krishjain.w@gmail.com**
+- How to reach me **krishjain.w@gmail.com**
 
-- ⚡ Fun fact **i am sometimes dumber than I actually am**
+- Fun fact **i am sometimes dumber than I actually am**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
