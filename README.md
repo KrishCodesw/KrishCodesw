@@ -9,7 +9,7 @@
 
 - I’m currently working on [MetaStash](https://metastash1final.vercel.app/)
 
-- I’m currently learning **NextJs**
+- I’m currently learning **NextJs and MonoRepos**
 
 - I’m looking to collaborate on **any project**
 
