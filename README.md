@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Krish Jain</h1>
-<h3 align="center">A Passionate Full Stack Developer</h3>
+<h1 align="center"> Hi, I'm Krish Jain</h1>
+<h3 align="center">A Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=krishcodesw&label=Profile%20views&color=0e75b6&style=flat" alt="krishcodesw" />
