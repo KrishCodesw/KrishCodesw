@@ -16,14 +16,14 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🔭 Currently working on [MetaStash](https://metastash1final.vercel.app/)
-- 🌱 Learning **Next.js**
-- 👯 Open to collaboration on **any project**
-- 💬 Ask me about **React**
-- 📫 Reach me at **krishjain.w@gmail.com**
-- ⚡ Fun Fact: *Sometimes I’m dumber than I actually am 😅*
+-  Currently working on [MetaStash](https://metastash1final.vercel.app/)
+-  Learning **Next.js**
+-  Open to collaboration on **any project**
+-  Ask me about **React**
+-  Reach me at **krishjain.w@gmail.com**
+-  Fun Fact: *Sometimes I’m dumber than I actually am 😅*
 
 ---
 
