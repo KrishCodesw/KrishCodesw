@@ -21,9 +21,9 @@
 -  Currently working on [MetaStash](https://metastash1final.vercel.app/)
 -  Learning **Next.js**
 -  Open to collaboration on **any project**
--  Ask me about **React**
+-  Ask me about **Work**
 -  Reach me at **krishjain.w@gmail.com**
--  Fun Fact: *Sometimes I’m dumber than I actually am 😅*
+-  Fun Fact: *Sometimes I’m smarter than I actually am*
 
 ---
 
@@ -74,7 +74,7 @@
 
 ---
 
-### ☕ Support Me
+### ☕ Itna toh kar hi sakte ho
 
 <p>
   <a href="https://www.buymeacoffee.com/krishjain" target='_blank'>
