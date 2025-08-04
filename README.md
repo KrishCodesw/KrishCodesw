@@ -15,11 +15,11 @@
 
 - 📫 How to reach me **krishjain.w@gmail.com**
 
-► I love everything about where the world of technology is going.
-► I don't have many hobbies outside coding. I am not athletic, bad at singing,     don't drink & can't dance.
-► Building is the only thing I am good at.
-► At this point, I want to be a part of taking something from 0-1 or 1 - 100.
-► I just want to be heads down chasing that goal.
+- I love everything about where the world of technology is going.
+-I don't have many hobbies outside coding. I am not athletic, bad at singing, don't drink & can't dance.
+-Building is the only thing I am good at.
+- At this point, I want to be a part of taking something from 0-1 or 1 - 100.
+- I just want to be heads down chasing that goal.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
