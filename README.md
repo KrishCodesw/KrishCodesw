@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Krish Jain</h1>
-<h3 align="center">I'm a full stack developer !</h3>
+<h1 align="center">Hi, I'm Krish Jain</h1>
+<h3 align="center">I'm a full stack developer ,devops learner and web3 explorer !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishcodesw&label=Profile%20views&color=0e75b6&style=flat" alt="krishcodesw" /> </p>
 
@@ -7,22 +7,24 @@
 
 <p align="left"> <a href="https://twitter.com/krishjainw" target="blank"><img src="https://img.shields.io/twitter/follow/krishjainw?logo=twitter&style=for-the-badge" alt="krishjainw" /></a> </p>
 
-- 🔭 I’m currently working on [MetaStash](https://metastash1final.vercel.app/)
+- 🔭 I’m currently working on developing full stack projects.
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **Devops**
 
-- 👯 I’m looking to collaborate on **any project**
-
-- 💬 Ask me about **react**
+- 👯 I’m looking to collaborate on **open source projects**
 
 - 📫 How to reach me **krishjain.w@gmail.com**
 
-- ⚡ Fun fact **i am sometimes dumber than I actually am**
+► I love everything about where the world of technology is going.
+► I don't have many hobbies outside coding. I am not athletic, bad at singing,     don't drink & can't dance.
+► Building is the only thing I am good at.
+► At this point, I want to be a part of taking something from 0-1 or 1 - 100.
+► I just want to be heads down chasing that goal.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/krishjainw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krishjainw" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/krish jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krish jain" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/krish-jain-445aa332a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krish jain" height="30" width="40" /></a>
 <a href="https://instagram.com/krishkracksup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishkracksup" height="30" width="40" /></a>
 </p>
 
