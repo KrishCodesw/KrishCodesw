@@ -4,7 +4,7 @@
 
 - Portfolio: [https://krishjain-me.vercel.app/](https://krishjain-me.vercel.app/)
 
-- Email: **krishjain.w@gmail.com**
+- Email:  **krishjain.w@gmail.com**
 
 - Resume: [https://drive.google.com/file/d/1xXRQjAbmeCWJiALfSuPodTrgkPig4Sop/view?usp=sharing](https://drive.google.com/file/d/1xXRQjAbmeCWJiALfSuPodTrgkPig4Sop/view?usp=sharing)
 
