@@ -9,7 +9,6 @@ full-stack engineer · open-source contributor
 
 </div>
 
----
 
 ## about
 
@@ -17,7 +16,6 @@ Computer Engineering student at TCET Mumbai. I build full-stack apps, developer 
 and institutional platforms that go from idea to production. I care about clean code,
 clean interfaces, and systems that make sense under the hood.
 
----
 
 ## tech stack
 
@@ -40,7 +38,6 @@ clean interfaces, and systems that make sense under the hood.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
----
 
 ## projects
 
@@ -49,14 +46,12 @@ A civic issue reporting platform with location tagging, status tracking, and adm
 dashboards. Built full-stack, end to end.
 `Next.js` `Supabase` `Prisma` `TypeScript`
 
----
 
 **[GetSQL](https://github.com/KrishCodesw/getsql)**
 A suite of AI tools for writing, debugging, and explaining SQL queries. Started at a
 GDG hackathon. Kept going because it turned out to be genuinely useful.
 `TypeScript` `AI/LLM` `Developer Tooling`
 
----
 
 **TCET Project Dashboard**
 A central dashboard for tracking every student project at TCET. Covers funding stage,
@@ -64,7 +59,6 @@ documentation, achievements, and project status with interactive data visualisat
 and official college statistics.
 `Next.js` `TypeScript` `Supabase` `Data Visualisation`
 
----
 
 **TCET Centre of Excellence Website**
 A full-stack platform centralising articles, news, hackathon listings, and opportunities
@@ -72,21 +66,18 @@ for the college CoE. Replaced scattered communication with one maintainable hub.
 Active developer and contributor.
 `Next.js` `TypeScript` `Supabase` `Prisma`
 
----
 
 **[Swagger UI](https://github.com/swagger-api/swagger-ui) — Open Source Contributor**
 Active contributor to Swagger UI, the industry-standard OpenAPI documentation
 renderer used by developers worldwide.
 `Open Source` `JavaScript` `Developer Tooling`
 
----
 
 ## currently working on
 
 - AWS architecture and system design
 - AI agent frameworks and LLM tooling
 
----
 
 ## github stats
 
@@ -98,7 +89,6 @@ renderer used by developers worldwide.
 
 </div>
 
----
 
 <div align="center">
 
