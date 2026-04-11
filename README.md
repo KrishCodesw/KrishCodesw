@@ -96,4 +96,3 @@ open to internships, collabs, and conversations about how things actually work.
 krishjain.w@gmail.com
 
 </div>
-```
