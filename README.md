@@ -79,15 +79,6 @@ renderer used by developers worldwide.
 - AI agent frameworks and LLM tooling
 
 
-## github stats
-
-<div align="center">
-
-![Krish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishCodesw&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishCodesw&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
 
 
 <div align="center">
